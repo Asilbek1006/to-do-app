@@ -4,6 +4,8 @@ import time
 
 now = time.strftime("%b %d, %Y %H:%M:%S")
 print("The time is below:")
+print("My purpose is will be Happilfull"
+      "")
 print("It is ", now)
 
 
